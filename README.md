@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## Frontend
-[![My Skills](https://skillicons.dev/icons?i=react,redux,angular,next,js,ts,html,css,sass,less)]
+[![My Skills](https://skillicons.dev/icons?i=react,redux,angular,next,js,ts,html,css,sass,less)](https://skillicons.dev)
 
 <!--
 **a1exevs/a1exevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
