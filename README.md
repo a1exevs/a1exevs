@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="waving" width="35px"/>
 
 ## About
 Front-end developer with expertise in React + Redux Toolkit and Angular + RxJs. I love creating user-friendly interfaces of various complexities, constantly striving to improve my professional skills and develop in the T-shaped approach. Over 5 years of commercial development experience, working both in small teams and large international teams.
