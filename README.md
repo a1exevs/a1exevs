@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+## About
+Front-end developer with expertise in React + Redux Toolkit and Angular + RxJs. I love creating user-friendly interfaces of various complexities, constantly striving to improve my professional skills and develop in the T-shaped approach. Over 5 years of commercial development experience, working both in small teams and large international teams.
+
 ## Frontend
 [![My Skills](https://skillicons.dev/icons?i=react,redux,angular,next,js,ts,html,css,sass,less)](https://skillicons.dev)
 
