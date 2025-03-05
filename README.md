@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+## Frontend
+[![My Skills](https://skillicons.dev/icons?i=react,redux,js,ts,html,css,sass,webpack,jest&perline=10)](https://skillicons.dev)
+
 <!--
 **a1exevs/a1exevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
