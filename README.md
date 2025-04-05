@@ -12,7 +12,7 @@ Front-end developer with expertise in React + Redux Toolkit and Angular + RxJs. 
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin: auto; width: fit-content">
    <a href="https://api.whatsapp.com/send?phone=79601254138">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/640px-Telegram_logo.svg.png" width="30px" />
+      <img src="https://en.m.wikipedia.org/wiki/File:WhatsApp.svg" width="30px" />
    </a>
    <a href="https://t.me/AlexanderEvstafiadi">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/640px-Telegram_logo.svg.png" width="30px" />
