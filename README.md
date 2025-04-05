@@ -35,6 +35,9 @@ Front-end developer with expertise in React + Redux Toolkit and Angular + RxJs. 
   <a href="https://github.com/a1exevs">
     <img src="https://icon-library.com/images/github-icon/github-icon-1.jpg" width="30px" />
   </a>
+  <a href="https://www.youtube.com/@alexevs-gb">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/7/72/YouTube_social_white_square_%282017%29.svg" width="30px" />
+  </a>
   <a href="https://www.instagram.com/alexevs_gb">
     <img src="https://www.pngall.com/wp-content/uploads/5/Instagram-Logo-PNG-Image.png" width="30px" />
   </a>
