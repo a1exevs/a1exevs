@@ -10,7 +10,7 @@ Front-end developer with expertise in React + Redux Toolkit and Angular + RxJs. 
 ## Contacts
 🪐 You can reach me via the following links:
 
-<div style="display: flex; flex-wrap: wrap; gap: 16px; margin: auto; width: fit-content;">
+<div>
    <a href="https://api.whatsapp.com/send?phone=79601254138">
       <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="30px" />
    </a>
