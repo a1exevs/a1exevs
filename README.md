@@ -10,7 +10,7 @@ Front-end developer with expertise in React + Redux Toolkit and Angular + RxJs. 
 ## Contacts
 🪐 You can reach me via the following links:
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; margin: auto; width: fit-content">
+<div style="{ display: flex; flex-wrap: wrap; gap: 20px; margin: auto; width: fit-content }">
    <a href="https://api.whatsapp.com/send?phone=79601254138">
       <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="30px" />
    </a>
@@ -24,7 +24,7 @@ Front-end developer with expertise in React + Redux Toolkit and Angular + RxJs. 
 
 ## Socials
 🪐 You can also find me on social networks:
-<div style="display: flex; flex-wrap: wrap; gap: 20px; margin: auto; width: fit-content">
+<div style="{ display: flex; flex-wrap: wrap; gap: 20px; margin: auto; width: fit-content }">
   <a href="https://www.linkedin.com/in/alexander-evstafiadi">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="30px" />
   </a>
