@@ -17,25 +17,26 @@ Front-end developer with expertise in React + Redux Toolkit and Angular + RxJs. 
    <a href="https://t.me/AlexanderEvstafiadi">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/640px-Telegram_logo.svg.png" width="30px" />
    </a>
-   &nbsp;
-   <a href="https://leetcode.com/u/a1exevs">
-      <img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3628885-3030025.png" width="30px" />
-   </a>
-   &nbsp;
-   <a href="https://www.linkedin.com/in/alexander-evstafiadi">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="30px" />
-   </a>
-   &nbsp;
-   <a href="https://github.com/a1exevs">
-      <img src="https://icon-library.com/images/github-icon/github-icon-1.jpg" width="30px" />
-   </a>
-   &nbsp;
-   <a href="https://www.instagram.com/alexevs_gb">
-      <img src="https://www.pngall.com/wp-content/uploads/5/Instagram-Logo-PNG-Image.png" width="30px" />
-   </a>
-   &nbsp;
    <a href="mailto:aleksandrevstafiadi@gmail.com">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="30px" />
    </a>
 </div>
+
+## Socials
+🪐 You can also find me on social networks:
+<div style="display: flex; flex-wrap: wrap; gap: 20px; margin: auto; width: fit-content">
+  <a href="https://www.linkedin.com/in/alexander-evstafiadi">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="30px" />
+  </a>
+  <a href="https://leetcode.com/u/a1exevs">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3628885-3030025.png" width="30px" />
+  </a>
+  <a href="https://github.com/a1exevs">
+    <img src="https://icon-library.com/images/github-icon/github-icon-1.jpg" width="30px" />
+  </a>
+  <a href="https://www.instagram.com/alexevs_gb">
+    <img src="https://www.pngall.com/wp-content/uploads/5/Instagram-Logo-PNG-Image.png" width="30px" />
+  </a>
+</div>
+  
 <br/>
