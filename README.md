@@ -11,6 +11,9 @@ Front-end developer with expertise in React + Redux Toolkit and Angular + RxJs. 
 🪐 You can reach me via the following links:
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin: auto; width: fit-content">
+   <a href="https://api.whatsapp.com/send?phone=79601254138">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/640px-Telegram_logo.svg.png" width="30px" />
+   </a>
    <a href="https://t.me/AlexanderEvstafiadi">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/640px-Telegram_logo.svg.png" width="30px" />
    </a>
@@ -36,18 +39,3 @@ Front-end developer with expertise in React + Redux Toolkit and Angular + RxJs. 
    </a>
 </div>
 <br/>
-
-<!--
-**a1exevs/a1exevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
